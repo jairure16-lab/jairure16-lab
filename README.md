@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI+automation+for+small+businesses;Founder+%40+Ratio+Labs+%7C+Panama+City%2C+PA;WhatsApp+bots+%2B+dashboards+%2B+real+business+impact;Self-taught+engineer+shipping+in+production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI+for+high-ticket+professional+firms;Founder+%40+Ratio+Labs+%7C+Panama+City%2C+PA;WhatsApp+bots+%2B+dashboards+%2B+real+business+impact;Self-taught+engineer+shipping+in+production" alt="Typing SVG" />
 
   </a>
 </div>
@@ -51,18 +51,18 @@
 
 ```yaml
 name       : Jair Ureña
-company    : Ratio Labs — AI automation for small and medium businesses
+company    : Ratio Labs — AI automation for professional service firms
 role       : Founder · Software Engineer · AI Systems Builder
 location   : Panama City, Panama
 background : Self-taught — built everything from projects, curiosity, and obsession with craft
 philosophy : Real products for real businesses. No demos. No MVPs that never ship.
 ```
 
-I'm a self-taught software engineer and founder of **Ratio Labs**, a studio I built to bring AI-powered automation to small and medium businesses that can't afford enterprise tooling. My work sits at the intersection of **conversational AI**, **full-stack web engineering**, and **process automation** — always grounded in actual client workflows, not hypothetical use cases.
+I'm a self-taught software engineer and founder of **Ratio Labs**, a studio I built to bring AI-powered automation to high-ticket professional service firms — accounting, legal, and real estate. My work sits at the intersection of **conversational AI**, **full-stack web engineering**, and **process automation** — always grounded in actual client workflows, not hypothetical use cases.
 
 Every project I ship is in production, serving real users. From WhatsApp AI assistants managing client intake at an accounting firm, to dashboards replacing manual reporting, to quotation engines cutting turnaround from hours to minutes — I build systems that create measurable business value from day one.
 
-**Open To:** Contract work on AI integrations · Automation projects for SMBs · Technical co-founder conversations · Open source collaboration on developer tooling
+**Open To:** Contract work on AI integrations for professional service firms · Technical co-founder conversations · Open source collaboration on developer tooling
 
 <br/>
 
@@ -210,7 +210,7 @@ Built as a production internal tool for Decoraciones & Cortinas S.A. The system 
 **Founder & Lead Engineer** &nbsp;·&nbsp; Ratio Labs &nbsp;·&nbsp; Panama City, PA
 `2024 — Present`
 
-Founded Ratio Labs to build AI-powered automation products for small and medium businesses in Latin America. Responsible for the full lifecycle — from client discovery and solution design to engineering, deployment, and iteration. Every product ships to production.
+Founded Ratio Labs to build AI-powered automation products for high-ticket professional service firms in Latin America. Responsible for the full lifecycle — from client discovery and solution design to engineering, deployment, and iteration. Every product ships to production.
 
 - Designed and shipped Vale, a production AI WhatsApp assistant serving a live accounting firm client
 - Built and launched the Mendoza Dashboard business intelligence platform (Phase 1 complete, Phase 2 in active development)
@@ -342,7 +342,7 @@ current_focus:
     - Luna Bot (DC): WhatsApp AI assistant for Decoraciones & Cortinas — deployed on Railway, handling live client intake
     - Vale (Mendoza): AI assistant for Mendoza y Asociados CPA firm — in production, automating intake and scheduling
     - Mendoza Dashboard Phase 2: connecting live data from Instagram, LinkedIn, GA4, and Vale telemetry
-    - Ratio Labs product suite — expanding AI automation to more SMB verticals in Panama
+    - Ratio Labs product suite — scaling AI automation across legal, accounting, and professional services in Panama
 
   exploring:
     - Edge-first deployments for low-latency AI inference in Latin America
@@ -351,7 +351,7 @@ current_focus:
     - Open source tooling for SMB AI automation workflows
 
   open_to:
-    - Contract work on AI integrations and automation systems for SMBs
+    - Contract work on AI integrations for high-ticket professional service firms
     - Technical co-founder conversations on AI-first B2B products
     - Full-time software or AI engineering roles with high ownership
     - Open source collaboration on developer tooling and AI infrastructure
