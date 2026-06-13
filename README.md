@@ -22,12 +22,12 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:jairurena@decoycortinas.com">
+  <a href="mailto:jairurena@ratiospacelabs.com">
     <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/jairure16-lab">
-    <img src="https://img.shields.io/badge/GitHub-jairure16--ratiolabs-312E81?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-jairure16--lab-312E81?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -84,7 +84,7 @@ Every project I ship is in production, serving real users. From WhatsApp AI assi
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,postgresql,mongodb&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
@@ -110,7 +110,7 @@ Every project I ship is in production, serving real users. From WhatsApp AI assi
 | **Process Automation** | █████████░ Expert | Webhook pipelines, event-driven flows, API orchestration, scheduling |
 | **Business Intelligence** | ███████░░░ Proficient | KPI dashboards, data aggregation from multiple APIs, real-time metrics |
 | **API Integration** | █████████░ Expert | WhatsApp Business API, Google Calendar API, Meta Graph API, REST design |
-| **Full Stack Engineering** | ████████░░ Advanced | Next.js, Node.js, PostgreSQL, Railway/Vercel deployment end-to-end |
+| **Full Stack Engineering** | ████████░░ Advanced | Next.js, Node.js, SQLite/PostgreSQL, Railway/Vercel deployment end-to-end |
 
 </div>
 
@@ -138,11 +138,11 @@ Every project I ship is in production, serving real users. From WhatsApp AI assi
 | **Performance** | Sub-2s average response latency; stateful sessions survive server restarts |
 | **Security** | Webhook HMAC signature verification; scoped API tokens; env-isolated credentials |
 | **Impact** | Automates 100% of routine client intake and scheduling at zero marginal cost per interaction |
-| **Repository** | [github.com/jairure16-lab/vale-bot](https://github.com/jairure16-lab/vale-bot) |
+| **Repository** | [github.com/jairure16-lab/mendoza-bot](https://github.com/jairure16-lab/mendoza-bot) |
 
 </div>
 
-Vale is the flagship product of Ratio Labs and the clearest proof that LLMs can be embedded into existing business workflows — not bolted on as experiments. The system routes each incoming WhatsApp message through a context-aware AI layer, maintains individual client sessions, and knows when to book a calendar event versus when to escalate to a human. Deployed on Railway with health monitoring and structured logs. Currently in Meta Business verification for production number approval.
+Vale is the flagship product of Ratio Labs and the clearest proof that LLMs can be embedded into existing business workflows — not bolted on as experiments. The system routes each incoming WhatsApp message through a context-aware AI layer, maintains individual client sessions, and knows when to book a calendar event versus when to escalate to a human. Deployed on Railway with health monitoring and structured logs.
 
 <br/>
 </details>
@@ -173,7 +173,7 @@ The dashboard is engineered as a living product. The data layer is fully decoupl
 </details>
 
 <details>
-<summary><b>Cotización System — Automated Quotation Engine for Decoy Cortinas</b></summary>
+<summary><b>Cotización System — Automated Quotation Engine for Decoraciones & Cortinas</b></summary>
 
 <br/>
 
@@ -183,7 +183,7 @@ The dashboard is engineered as a living product. The data layer is fully decoupl
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | React · Node.js · Express · PostgreSQL · PDF generation · Email dispatch |
+| **Stack** | Node.js · Express · SQLite · PDF generation · Email dispatch |
 | **Scale** | Multi-user concurrent sessions; full product catalog with dynamic pricing rules |
 | **Performance** | Real-time line-item calculation; instant PDF generation with branded template |
 | **Security** | Server-side pricing validation; authenticated sessions; SQL injection protection |
@@ -192,7 +192,7 @@ The dashboard is engineered as a living product. The data layer is fully decoupl
 
 </div>
 
-Built as a production internal tool for Decoy Cortinas. The system includes a full product catalog manager, customer database, line-item quote builder with discount controls, and automated email dispatch with branded PDF attachments. Pricing logic is server-side only — no client-side price calculation means no manipulation risk. All quote state is persisted with full revision history and an audit trail accessible to management.
+Built as a production internal tool for Decoraciones & Cortinas S.A. The system includes a full product catalog manager, customer database, line-item quote builder with discount controls, and automated email dispatch with branded PDF attachments. Pricing logic is server-side only — no client-side price calculation means no manipulation risk. All quote state is persisted with full revision history and an audit trail accessible to management.
 
 <br/>
 </details>
@@ -227,19 +227,20 @@ Founded Ratio Labs to build AI-powered automation products for small and medium 
 
 <br/>
 
-**Software Engineer** &nbsp;·&nbsp; Decoy Cortinas &nbsp;·&nbsp; Panama City, PA
+**Software Engineer** &nbsp;·&nbsp; Decoraciones & Cortinas S.A. &nbsp;·&nbsp; Panama City, PA
 `2023 — Present`
 
 Sole engineer for a home décor business. Designed, built, and maintain all internal software — replacing manual workflows with production tools built from scratch.
 
 - Architected and shipped a full-stack quotation management system that eliminated the manual spreadsheet process used by the sales team
 - Reduced quote generation time by over 90%, enabling same-day response to client inquiries
+- Deployed a WhatsApp AI assistant (Luna Bot) to handle client intake and product inquiries automatically
 - Built and maintain the company web presence, product catalog, and internal tooling
 - Introduced structured database schemas, version-controlled deployments, and documented processes for long-term maintainability
 
-&nbsp;![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
+&nbsp;![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-6D28D9?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4F46E5?style=flat-square&logo=sqlite&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF%20Generation-312E81?style=flat-square&logo=adobeacrobatreader&logoColor=white)
 
 <br/>
@@ -254,7 +255,7 @@ Sole engineer for a home décor business. Designed, built, and maintain all inte
 
 | Recognition | Details |
 |:---:|:---|
-| **Production AI in a Regulated Industry** | Shipped a live LLM-powered assistant serving clients of a Panama CPA firm — not a prototype, running in production |
+| **Multiple AI Systems in Production** | Two live WhatsApp AI assistants serving real clients — a CPA firm and a home décor business — both deployed and handling real conversations |
 | **Zero-to-One Founder** | Founded Ratio Labs and delivered multiple production products as the sole engineer, designer, and PM |
 | **90%+ Workflow Reduction** | Reduced manual business processes by over 90% across two separate client engagements through targeted automation |
 | **Full Stack Ownership** | End-to-end ownership across frontend, backend, database, cloud deployment, and AI integration on every project |
@@ -338,8 +339,9 @@ current_focus:
     - TypeScript strict mode and monorepo patterns at scale
 
   building:
-    - Vale Bot Phase 2: Meta App production approval, Google Calendar sync, multi-number routing
-    - Mendoza Dashboard Phase 2: live API feeds from Instagram, LinkedIn, GA4, and Vale telemetry
+    - Luna Bot (DC): WhatsApp AI assistant for Decoraciones & Cortinas — deployed on Railway, handling live client intake
+    - Vale (Mendoza): AI assistant for Mendoza y Asociados CPA firm — in production, automating intake and scheduling
+    - Mendoza Dashboard Phase 2: connecting live data from Instagram, LinkedIn, GA4, and Vale telemetry
     - Ratio Labs product suite — expanding AI automation to more SMB verticals in Panama
 
   exploring:
@@ -365,14 +367,14 @@ current_focus:
 
 <div align="center">
 
-  <a href="mailto:jairurena@decoycortinas.com">
-    <img src="https://img.shields.io/badge/Email-jairurena%40decoycortinas.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" />
+  <a href="mailto:jairurena@ratiospacelabs.com">
+    <img src="https://img.shields.io/badge/Email-jairurena%40ratiospacelabs.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/jairure16-lab">
-    <img src="https://img.shields.io/badge/GitHub-jairure16--ratiolabs-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E" />
+    <img src="https://img.shields.io/badge/GitHub-jairure16--lab-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E" />
   </a>
 
 </div>
