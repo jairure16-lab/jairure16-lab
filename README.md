@@ -123,7 +123,7 @@ Every project I ship is in production, serving real users. From WhatsApp AI assi
 </div>
 
 <details>
-<summary><b>Vale — AI WhatsApp Assistant for Mendoza y Asociados</b></summary>
+<summary><b>Vale — AI WhatsApp Assistant for a CPA Firm</b></summary>
 
 <br/>
 
@@ -138,7 +138,7 @@ Every project I ship is in production, serving real users. From WhatsApp AI assi
 | **Performance** | Sub-2s average response latency; stateful sessions survive server restarts |
 | **Security** | Webhook HMAC signature verification; scoped API tokens; env-isolated credentials |
 | **Impact** | Automates 100% of routine client intake and scheduling at zero marginal cost per interaction |
-| **Repository** | [github.com/jairure16-lab/mendoza-bot](https://github.com/jairure16-lab/mendoza-bot) |
+| **Repository** | Private — client engagement |
 
 </div>
 
@@ -148,11 +148,11 @@ Vale is the flagship product of Ratio Labs and the clearest proof that LLMs can 
 </details>
 
 <details>
-<summary><b>Mendoza Dashboard — Business Intelligence Platform</b></summary>
+<summary><b>Accounting Firm Dashboard — Business Intelligence Platform</b></summary>
 
 <br/>
 
-> A real-time business intelligence dashboard built for Mendoza y Asociados. Phase 1 delivers a complete metrics UI with KPI cards, ratio analysis, performance trends, and operational visibility. Phase 2 connects every widget to live data from external APIs, replacing all static fixtures with streaming production data.
+> A real-time business intelligence dashboard built for an accounting firm client. Phase 1 delivers a complete metrics UI with KPI cards, ratio analysis, performance trends, and operational visibility. Phase 2 connects every widget to live data from external APIs, replacing all static fixtures with streaming production data.
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Vale is the flagship product of Ratio Labs and the clearest proof that LLMs can 
 | **Performance** | SSR for first load, incremental static regeneration, optimistic UI on interactions |
 | **Security** | Role-based access; encrypted secrets; CORS-hardened Express backend |
 | **Impact** | Replaces weekly manual Excel reports with a live, always-on operational view for leadership |
-| **Repository** | [github.com/jairure16-lab/mendoza-dashboard](https://github.com/jairure16-lab/mendoza-dashboard) |
+| **Repository** | Private — client engagement |
 
 </div>
 
@@ -173,7 +173,7 @@ The dashboard is engineered as a living product. The data layer is fully decoupl
 </details>
 
 <details>
-<summary><b>Cotización System — Automated Quotation Engine for Decoraciones & Cortinas</b></summary>
+<summary><b>Cotización System — Automated Quotation Engine for a Home Décor Business</b></summary>
 
 <br/>
 
@@ -188,11 +188,11 @@ The dashboard is engineered as a living product. The data layer is fully decoupl
 | **Performance** | Real-time line-item calculation; instant PDF generation with branded template |
 | **Security** | Server-side pricing validation; authenticated sessions; SQL injection protection |
 | **Impact** | Quote turnaround reduced from 2–4 hours to under 5 minutes per client |
-| **Repository** | [github.com/jairure16-lab/cotizacion-system](https://github.com/jairure16-lab/cotizacion-system) |
+| **Repository** | Private — internal company tool |
 
 </div>
 
-Built as a production internal tool for Decoraciones & Cortinas S.A. The system includes a full product catalog manager, customer database, line-item quote builder with discount controls, and automated email dispatch with branded PDF attachments. Pricing logic is server-side only — no client-side price calculation means no manipulation risk. All quote state is persisted with full revision history and an audit trail accessible to management.
+Built as a production internal tool for a home décor and curtains business in Panama. The system includes a full product catalog manager, customer database, line-item quote builder with discount controls, and automated email dispatch with branded PDF attachments. Pricing logic is server-side only — no client-side price calculation means no manipulation risk. All quote state is persisted with full revision history and an audit trail accessible to management.
 
 <br/>
 </details>
@@ -213,7 +213,7 @@ Built as a production internal tool for Decoraciones & Cortinas S.A. The system 
 Founded Ratio Labs to build AI-powered automation products for high-ticket professional service firms in Latin America. Responsible for the full lifecycle — from client discovery and solution design to engineering, deployment, and iteration. Every product ships to production.
 
 - Designed and shipped Vale, a production AI WhatsApp assistant serving a live accounting firm client
-- Built and launched the Mendoza Dashboard business intelligence platform (Phase 1 complete, Phase 2 in active development)
+- Built and launched a business intelligence dashboard for that same accounting firm client (Phase 1 complete, Phase 2 in active development)
 - Established Railway + Vercel deployment infrastructure with CI/CD and zero-downtime releases
 - Integrated Claude AI, WhatsApp Business API, Google Calendar, and Meta Graph API into cohesive business workflows
 - Operating across the full stack: system design, frontend, backend, database, cloud, and AI integration
@@ -227,7 +227,7 @@ Founded Ratio Labs to build AI-powered automation products for high-ticket profe
 
 <br/>
 
-**Software Engineer** &nbsp;·&nbsp; Decoraciones & Cortinas S.A. &nbsp;·&nbsp; Panama City, PA
+**Software Engineer** &nbsp;·&nbsp; Home Décor & Curtains Company &nbsp;·&nbsp; Panama City, PA
 `2023 — Present`
 
 Sole engineer for a home décor business. Designed, built, and maintain all internal software — replacing manual workflows with production tools built from scratch.
@@ -339,9 +339,9 @@ current_focus:
     - TypeScript strict mode and monorepo patterns at scale
 
   building:
-    - Luna Bot (DC): WhatsApp AI assistant for Decoraciones & Cortinas — deployed on Railway, handling live client intake
-    - Vale (Mendoza): AI assistant for Mendoza y Asociados CPA firm — in production, automating intake and scheduling
-    - Mendoza Dashboard Phase 2: connecting live data from Instagram, LinkedIn, GA4, and Vale telemetry
+    - Luna Bot: WhatsApp AI assistant for a home décor and curtains business — deployed on Railway, handling live client intake
+    - Vale: AI assistant for a CPA firm client — in production, automating intake and scheduling
+    - Accounting firm dashboard Phase 2: connecting live data from Instagram, LinkedIn, GA4, and Vale telemetry
     - Ratio Labs product suite — scaling AI automation across legal, accounting, and professional services in Panama
 
   exploring:
