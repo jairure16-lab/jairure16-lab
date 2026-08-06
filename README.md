@@ -34,6 +34,18 @@
 <br/>
 
 <div align="center">
+  <a href="https://ratiospacelabs.com">
+    <img src="https://img.shields.io/badge/Live-ratiospacelabs.com-A855F7?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://decoycortinas.com">
+    <img src="https://img.shields.io/badge/Live-decoycortinas.com-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=jairure16-lab&style=flat-square&color=7C3AED&label=Profile+Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/jairure16-lab?style=flat-square&color=6D28D9&label=Followers&logo=github&logoColor=white" />
@@ -84,7 +96,11 @@ Every project I ship is in production, serving real users. From WhatsApp AI assi
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,postgresql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,postgresql,supabase,mongodb&theme=dark" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,ts&theme=dark" /> &nbsp; <sub>React Native · Expo</sub>
 
 **Cloud, DevOps & Tooling**
 
@@ -189,10 +205,33 @@ The dashboard is engineered as a living product. The data layer is fully decoupl
 | **Security** | Server-side pricing validation; authenticated sessions; SQL injection protection |
 | **Impact** | Quote turnaround reduced from 2–4 hours to under 5 minutes per client |
 | **Repository** | Private — internal company tool |
+| **Live** | [decoycortinas.com](https://decoycortinas.com) |
 
 </div>
 
 Built as a production internal tool for a home décor and curtains business in Panama. The system includes a full product catalog manager, customer database, line-item quote builder with discount controls, and automated email dispatch with branded PDF attachments. Pricing logic is server-side only — no client-side price calculation means no manipulation risk. All quote state is persisted with full revision history and an audit trail accessible to management.
+
+<br/>
+</details>
+
+<details>
+<summary><b>Lulu — AI Voice Agent for Ratio Labs</b></summary>
+
+<br/>
+
+> The AI-powered front door of Ratio Labs itself: a WhatsApp + web voice agent that answers prospect questions, qualifies leads, and books discovery calls — running on the company's own site as a live demonstration of the product being sold.
+
+<div align="center">
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Next.js · Claude API · ElevenLabs (voice) · WhatsApp Business API · Express |
+| **Scale** | Handles concurrent web and WhatsApp sessions with shared context |
+| **Impact** | Live sales demo that converts site visitors without a human in the loop |
+| **Repository** | Private — production product |
+| **Live** | [ratiospacelabs.com](https://ratiospacelabs.com) |
+
+</div>
 
 <br/>
 </details>
@@ -341,12 +380,13 @@ current_focus:
   building:
     - Luna Bot: WhatsApp AI assistant for a home décor and curtains business — deployed on Railway, handling live client intake
     - Vale: AI assistant for a CPA firm client — in production, automating intake and scheduling
+    - Lulu: Ratio Labs' own AI voice + WhatsApp agent — live on ratiospacelabs.com
     - Accounting firm dashboard Phase 2: connecting live data from Instagram, LinkedIn, GA4, and Vale telemetry
-    - Ratio Labs product suite — scaling AI automation across legal, accounting, and professional services in Panama
+    - Migrating new Ratio products to Supabase as the standard backend
 
   exploring:
+    - n8n for workflow automation on recurring, non-conversational tasks
     - Edge-first deployments for low-latency AI inference in Latin America
-    - Real-time collaboration primitives for web-based business tools
     - Serverless architecture patterns on Cloudflare Workers and Vercel Edge
     - Open source tooling for SMB AI automation workflows
 
