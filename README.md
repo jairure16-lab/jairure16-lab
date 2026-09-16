@@ -74,6 +74,8 @@ I'm a self-taught software engineer and founder of **Ratio Labs**, a studio I bu
 
 Every project I ship is in production, serving real users. From WhatsApp AI assistants managing client intake at an accounting firm, to dashboards replacing manual reporting, to quotation engines cutting turnaround from hours to minutes — I build systems that create measurable business value from day one.
 
+Today Ratio Labs runs with paying clients on real contracts, and I lead the small team that keeps those systems in production.
+
 **Open To:** Contract work on AI integrations for professional service firms · Technical co-founder conversations · Open source collaboration on developer tooling
 
 <br/>
@@ -247,12 +249,14 @@ Built as a production internal tool for a home décor and curtains business in P
 <br/>
 
 **Founder & Lead Engineer** &nbsp;·&nbsp; Ratio Labs &nbsp;·&nbsp; Panama City, PA
-`2024 — Present`
+`2026 — Present`
 
-Founded Ratio Labs to build AI-powered automation products for high-ticket professional service firms in Latin America. Responsible for the full lifecycle — from client discovery and solution design to engineering, deployment, and iteration. Every product ships to production.
+Founded Ratio Labs to build AI-powered automation products for high-ticket professional service firms in Latin America. Responsible for the full lifecycle — from client discovery and solution design to engineering, deployment, and team leadership. Every product ships to production.
 
 - Designed and shipped Vale, a production AI WhatsApp assistant serving a live accounting firm client
 - Built and launched a business intelligence dashboard for that same accounting firm client (Phase 1 complete, Phase 2 in active development)
+- Diagnosed and shipped a same-day fix for a production data-access bug affecting the internal sales dashboard, verified live with the sales team
+- Built and deployed an internal MCP server giving the team direct AI access to company systems (GitHub, Drive, internal APIs)
 - Established Railway + Vercel deployment infrastructure with CI/CD and zero-downtime releases
 - Integrated Claude AI, WhatsApp Business API, Google Calendar, and Meta Graph API into cohesive business workflows
 - Operating across the full stack: system design, frontend, backend, database, cloud, and AI integration
@@ -295,11 +299,12 @@ Sole engineer for a home décor business. Designed, built, and maintain all inte
 | Recognition | Details |
 |:---:|:---|
 | **Multiple AI Systems in Production** | Two live WhatsApp AI assistants serving real clients — a CPA firm and a home décor business — both deployed and handling real conversations |
-| **Zero-to-One Founder** | Founded Ratio Labs and delivered multiple production products as the sole engineer, designer, and PM |
-| **90%+ Workflow Reduction** | Reduced manual business processes by over 90% across two separate client engagements through targeted automation |
+| **Zero-to-One Founder** | Founded Ratio Labs and grew it to a paying, multi-client business, leading a small team across engineering, sales, and marketing |
+| **Production Incident Response** | Diagnosed and shipped a same-day fix for a critical data-access bug in the company's own sales dashboard — root cause traced to a missing database policy, verified live with the team using it |
+| **Internal AI Infrastructure** | Built and deployed an internal MCP server so the team can query company systems (GitHub, Drive, internal APIs) directly through AI tooling |
+| **90%+ Workflow Reduction** | Reduced manual business processes by over 90% across separate client engagements through targeted automation |
 | **Full Stack Ownership** | End-to-end ownership across frontend, backend, database, cloud deployment, and AI integration on every project |
-| **5-API Integration** | Integrated WhatsApp Business, Google Calendar, Claude AI, Meta Graph, and Google Analytics into a single product ecosystem |
-| **Self-Taught, Production-Shipped** | Went from zero coding background to multiple live production systems serving real businesses in under 3 years |
+| **Self-Taught, Production-Shipped** | Went from zero coding background to multiple live production systems serving real businesses and leading a team |
 
 </div>
 
@@ -308,41 +313,11 @@ Sole engineer for a home décor business. Designed, built, and maintain all inte
 ---
 
 <div align="center">
-  <h2>⬡ &nbsp; GitHub Analytics</h2>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairure16-lab&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&bg_color=0D1117&ring_color=7C3AED&include_all_commits=true" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairure16-lab&layout=compact&theme=transparent&hide_border=true&title_color=A855F7&text_color=C4B5FD&bg_color=0D1117&langs_count=8" />
+  <h2>⬡ &nbsp; GitHub Activity</h2>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairure16-lab&theme=transparent&hide_border=true&stroke=7C3AED&ring=A855F7&fire=6D28D9&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280&background=0D1117" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <h2>⬡ &nbsp; GitHub Trophies</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jairure16-lab&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&row=1" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <h2>⬡ &nbsp; Contribution Activity</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairure16-lab&bg_color=0D1117&color=A855F7&line=7C3AED&point=6D28D9&area_color=4F46E5&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 <br/>
@@ -378,6 +353,8 @@ current_focus:
     - TypeScript strict mode and monorepo patterns at scale
 
   building:
+    - Growing Ratio Labs from a handful of paying clients toward a repeatable, multi-client model
+    - Internal MCP infrastructure giving the whole team direct AI access to company systems
     - Luna Bot: WhatsApp AI assistant for a home décor and curtains business — deployed on Railway, handling live client intake
     - Vale: AI assistant for a CPA firm client — in production, automating intake and scheduling
     - Lulu: Ratio Labs' own AI voice + WhatsApp agent — live on ratiospacelabs.com
