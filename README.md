@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Self--Taught%20Engineer-Building%20Since%202022-7C3AED?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Self--Taught%20Engineer-Building%20Since%202025-7C3AED?style=flat-square&logo=code&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Panama%20City%2C%20PA-6D28D9?style=flat-square&logo=google-maps&logoColor=white" />
   &nbsp;
@@ -339,6 +339,10 @@ Sole engineer for a home décor business (Hunter Douglas dealer in Panama). Desi
 </div>
 
 <div align="center">
+  <img src="https://github.com/jairure16-lab/jairure16-lab/blob/main/metrics.svg" alt="Self-hosted GitHub metrics — languages, isometric calendar, achievements" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairure16-lab&theme=transparent&hide_border=true&stroke=7C3AED&ring=A855F7&fire=6D28D9&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A855F7&sideLabels=A855F7&dates=6B7280&background=0D1117" />
 </div>
 
@@ -385,6 +389,7 @@ current_focus:
     - Migrating new Ratio products to Supabase as the standard backend
 
   exploring:
+    - NEXO: an early-stage venture connecting founders, mentors, and capital — building in parallel with Ratio Labs
     - n8n for workflow automation on recurring, non-conversational tasks
     - Edge-first deployments for low-latency AI inference in Latin America
     - Serverless architecture patterns on Cloudflare Workers and Vercel Edge
