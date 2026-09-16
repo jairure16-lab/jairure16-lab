@@ -16,8 +16,6 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -34,8 +32,3 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update metrics"
-          file_pattern: metrics.svg
