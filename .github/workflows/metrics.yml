@@ -16,6 +16,8 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -26,7 +28,6 @@ jobs:
           plugins_errors_fatal: false
           config_timezone: America/Panama
           plugin_languages: yes
-          plugin_languages_analysis_timezone: America/Panama
           plugin_languages_categories: markup, programming
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year

@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI+for+high-ticket+professional+firms;Founder+%26+CEO+%40+Ratio+Labs+%7C+Panama+City%2C+PA;Trusted+by+Mendoza+y+Asociados+%2B+PRS+%2B+Decoraciones+%26+Cortinas;Self-taught+engineer+shipping+in+production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI+for+high-ticket+professional+firms;Founder+%26+CEO+%40+Ratio+Labs+%7C+Panama+City%2C+PA;WhatsApp+bots+%2B+dashboards+%2B+real+business+impact;Self-taught+engineer+shipping+in+production" alt="Typing SVG" />
 
   </a>
 </div>
@@ -72,7 +72,7 @@ philosophy : Real products for real businesses. No demos. No MVPs that never shi
 
 I'm a self-taught software engineer and founder & CEO of **Ratio Labs**, a studio I built to bring AI-powered automation to high-ticket professional service firms — accounting, legal, and real estate. My work sits at the intersection of **conversational AI**, **full-stack web engineering**, and **process automation** — always grounded in actual client workflows, not hypothetical use cases.
 
-Every project I ship is in production, serving real users. From WhatsApp AI assistants managing client intake at **Mendoza y Asociados** (accounting), to a live cotización platform for **PRS — Panama Rollers & Shades**, to the internal systems running **Decoraciones & Cortinas** — I build systems that create measurable business value from day one.
+Every project I ship is in production, serving real users. From WhatsApp AI assistants managing client intake at an accounting firm, to dashboards replacing manual reporting, to quotation and ops platforms for distributors — I build systems that create measurable business value from day one.
 
 Today Ratio Labs runs with paying clients on real contracts, and I lead the team that keeps those systems in production.
 
@@ -141,11 +141,11 @@ Today Ratio Labs runs with paying clients on real contracts, and I lead the team
 </div>
 
 <details>
-<summary><b>Vale — AI WhatsApp Assistant for Mendoza y Asociados</b></summary>
+<summary><b>AI WhatsApp Assistant for an Accounting Firm</b></summary>
 
 <br/>
 
-> A production-grade AI-powered WhatsApp assistant built for Mendoza y Asociados, a Panama-based accounting firm. Vale handles inbound client communication 24/7 — managing intake, answering common questions, routing requests, and scheduling appointments through Google Calendar — without any human involvement for routine interactions.
+> A production-grade AI-powered WhatsApp assistant built for a Panama-based accounting firm. Handles inbound client communication 24/7 — managing intake, answering common questions, routing requests, and scheduling appointments through Google Calendar — without any human involvement for routine interactions.
 
 <div align="center">
 
@@ -156,32 +156,32 @@ Today Ratio Labs runs with paying clients on real contracts, and I lead the team
 | **Performance** | Sub-2s average response latency; stateful sessions survive server restarts |
 | **Security** | Webhook HMAC signature verification; scoped API tokens; env-isolated credentials |
 | **Impact** | Automates 100% of routine client intake and scheduling at zero marginal cost per interaction |
-| **Repository** | Private — Mendoza y Asociados engagement |
+| **Repository** | Private — client engagement |
 
 </div>
 
-Vale is the flagship product of Ratio Labs and the clearest proof that LLMs can be embedded into existing business workflows — not bolted on as experiments. The system routes each incoming WhatsApp message through a context-aware AI layer, maintains individual client sessions, and knows when to book a calendar event versus when to escalate to a human. Deployed on Railway with health monitoring and structured logs.
+This is one of the clearest proofs that LLMs can be embedded into existing business workflows — not bolted on as experiments. The system routes each incoming WhatsApp message through a context-aware AI layer, maintains individual client sessions, and knows when to book a calendar event versus when to escalate to a human. Deployed on Railway with health monitoring and structured logs.
 
 <br/>
 </details>
 
 <details>
-<summary><b>Mendoza Dashboard — Business Intelligence Platform</b></summary>
+<summary><b>Business Intelligence Dashboard for an Accounting Firm</b></summary>
 
 <br/>
 
-> A real-time business intelligence dashboard built for Mendoza y Asociados. Phase 1 delivers a complete metrics UI with KPI cards, ratio analysis, performance trends, and operational visibility. Phase 2 connects every widget to live data from external APIs, replacing all static fixtures with streaming production data.
+> A real-time business intelligence dashboard built for an accounting firm client. Phase 1 delivers a complete metrics UI with KPI cards, ratio analysis, performance trends, and operational visibility. Phase 2 connects every widget to live data from external APIs, replacing all static fixtures with streaming production data.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
 | **Stack** | Next.js · React · Tailwind CSS · Node.js · Express · PostgreSQL · Vercel · Railway |
-| **Scale** | Multi-source data aggregation: Vale Bot API, Instagram Insights, LinkedIn Analytics, Google Analytics 4 |
+| **Scale** | Multi-source data aggregation: internal bot telemetry, Instagram Insights, LinkedIn Analytics, Google Analytics 4 |
 | **Performance** | SSR for first load, incremental static regeneration, optimistic UI on interactions |
 | **Security** | Role-based access; encrypted secrets; CORS-hardened Express backend |
 | **Impact** | Replaces weekly manual Excel reports with a live, always-on operational view for leadership |
-| **Repository** | Private — Mendoza y Asociados engagement |
+| **Repository** | Private — client engagement |
 
 </div>
 
@@ -191,11 +191,11 @@ The dashboard is engineered as a living product. The data layer is fully decoupl
 </details>
 
 <details>
-<summary><b>Cotización System — Automated Quotation Engine for Decoraciones & Cortinas</b></summary>
+<summary><b>Automated Quotation Engine for a Home Décor Business</b></summary>
 
 <br/>
 
-> A full-stack quotation management system built for Decoraciones & Cortinas S.A., a Panama home décor and curtains business (Hunter Douglas dealer). Enables the sales team to generate, customize, and dispatch professional PDF quotes in minutes — replacing a manual, error-prone spreadsheet process that previously took hours per client.
+> A full-stack quotation management system built for a Panama home décor and curtains business. Enables the sales team to generate, customize, and dispatch professional PDF quotes in minutes — replacing a manual, error-prone spreadsheet process that previously took hours per client.
 
 <div align="center">
 
@@ -207,7 +207,6 @@ The dashboard is engineered as a living product. The data layer is fully decoupl
 | **Security** | Server-side pricing validation; authenticated sessions; SQL injection protection |
 | **Impact** | Quote turnaround reduced from 2–4 hours to under 5 minutes per client |
 | **Repository** | Private — internal company tool |
-| **Live** | [decoycortinas.com](https://decoycortinas.com) |
 
 </div>
 
@@ -217,20 +216,20 @@ Built as a production internal tool for a home décor and curtains business in P
 </details>
 
 <details>
-<summary><b>PRS Portal — Quoting + WhatsApp Ops for Panama Rollers & Shades</b></summary>
+<summary><b>Quoting + WhatsApp Ops Platform for a Distributor Network</b></summary>
 
 <br/>
 
-> A two-part system built for PRS (Panama Rollers & Shades): a web cotización engine for distributors and installers, and a WhatsApp bot that tracks order status, routes quote approvals, and keeps the sales pipeline moving without manual follow-up.
+> A two-part system built for a home-solutions distributor: a web quotation engine for its network of distributors and installers, and a WhatsApp bot that tracks order status, routes quote approvals, and keeps the sales pipeline moving without manual follow-up.
 
 <div align="center">
 
 | Attribute | Details |
 |:---|:---|
 | **Stack** | Next.js · Node.js · WhatsApp Business API · PostgreSQL · Railway |
-| **Scope** | Quoting portal for distributor/installer network + WhatsApp bot for order status, quote routing, and approvals |
+| **Scope** | Quoting portal for a distributor/installer network + WhatsApp bot for order status, quote routing, and approvals |
 | **Impact** | Live pilot engagement — one of Ratio Labs' active paying clients |
-| **Repository** | Private — PRS engagement |
+| **Repository** | Private — client engagement |
 
 </div>
 
@@ -238,7 +237,7 @@ Built as a production internal tool for a home décor and curtains business in P
 </details>
 
 <details>
-<summary><b>Lulu — AI Voice Agent for Ratio Labs</b></summary>
+<summary><b>AI Voice + WhatsApp Agent for Ratio Labs</b></summary>
 
 <br/>
 
@@ -252,7 +251,6 @@ Built as a production internal tool for a home décor and curtains business in P
 | **Scale** | Handles concurrent web and WhatsApp sessions with shared context |
 | **Impact** | Live sales demo that converts site visitors without a human in the loop |
 | **Repository** | Private — production product |
-| **Live** | [ratiospacelabs.com](https://ratiospacelabs.com) |
 
 </div>
 
@@ -274,9 +272,9 @@ Built as a production internal tool for a home décor and curtains business in P
 
 Founded Ratio Labs to build AI-powered automation products for high-ticket professional service firms in Latin America. Responsible for the full lifecycle — from client discovery and solution design to engineering, deployment, and leading the team. Every product ships to production.
 
-- Designed and shipped Vale, a production AI WhatsApp assistant serving Mendoza y Asociados
-- Built and launched the Mendoza Dashboard business intelligence platform for that same client (Phase 1 complete, Phase 2 in active development)
-- Landed and delivered a live pilot engagement with PRS (Panama Rollers & Shades): a quoting portal plus a WhatsApp ops bot
+- Designed and shipped a production AI WhatsApp assistant serving a live accounting firm client
+- Built and launched a business intelligence dashboard for that same client (Phase 1 complete, Phase 2 in active development)
+- Landed and delivered a live pilot engagement with a home-solutions distributor: a quoting portal plus a WhatsApp ops bot
 - Diagnosed and shipped a same-day fix for a production data-access bug affecting the internal sales dashboard, verified live with the team
 - Built and deployed an internal MCP server giving the team direct AI access to company systems (GitHub, Drive, internal APIs)
 - Established Railway + Vercel deployment infrastructure with CI/CD and zero-downtime releases
@@ -292,14 +290,14 @@ Founded Ratio Labs to build AI-powered automation products for high-ticket profe
 
 <br/>
 
-**Software Engineer** &nbsp;·&nbsp; Decoraciones & Cortinas S.A. &nbsp;·&nbsp; Panama City, PA
+**Software Engineer** &nbsp;·&nbsp; Home Décor & Curtains Company &nbsp;·&nbsp; Panama City, PA
 `2023 — Present`
 
-Sole engineer for a home décor business (Hunter Douglas dealer in Panama). Designed, built, and maintain all internal software — replacing manual workflows with production tools built from scratch.
+Sole engineer for a home décor business. Designed, built, and maintain all internal software — replacing manual workflows with production tools built from scratch.
 
 - Architected and shipped a full-stack quotation management system that eliminated the manual spreadsheet process used by the sales team
 - Reduced quote generation time by over 90%, enabling same-day response to client inquiries
-- Deployed a WhatsApp AI assistant (Luna Bot) to handle client intake and product inquiries automatically
+- Deployed a WhatsApp AI assistant to handle client intake and product inquiries automatically
 - Built and maintain the company web presence, product catalog, and internal tooling
 - Introduced structured database schemas, version-controlled deployments, and documented processes for long-term maintainability
 
@@ -320,7 +318,7 @@ Sole engineer for a home décor business (Hunter Douglas dealer in Panama). Desi
 
 | Recognition | Details |
 |:---:|:---|
-| **Multiple AI Systems in Production** | Live WhatsApp AI assistants and ops bots serving real clients — Mendoza y Asociados, PRS, and Decoraciones & Cortinas — all deployed and handling real conversations |
+| **Multiple AI Systems in Production** | Live WhatsApp AI assistants and ops bots serving real clients across accounting, distribution, and home décor — all deployed and handling real conversations |
 | **Zero-to-One Founder** | Founded Ratio Labs and grew it to a paying, multi-client business, leading the team across engineering, sales, and marketing |
 | **Production Incident Response** | Diagnosed and shipped a same-day fix for a critical data-access bug in the company's own sales dashboard — root cause traced to a missing database policy, verified live with the team using it |
 | **Internal AI Infrastructure** | Built and deployed an internal MCP server so the team can query company systems (GitHub, Drive, internal APIs) directly through AI tooling |
@@ -381,11 +379,11 @@ current_focus:
   building:
     - Growing Ratio Labs from a handful of paying clients toward a repeatable, multi-client model
     - Internal MCP infrastructure giving the whole team direct AI access to company systems
-    - Luna Bot: WhatsApp AI assistant for Decoraciones & Cortinas — deployed on Railway, handling live client intake
-    - Vale: AI assistant for Mendoza y Asociados — in production, automating intake and scheduling
-    - PRS Portal: quoting engine + WhatsApp ops bot for Panama Rollers & Shades — active pilot
-    - Lulu: Ratio Labs' own AI voice + WhatsApp agent — live on ratiospacelabs.com
-    - Mendoza Dashboard Phase 2: connecting live data from Instagram, LinkedIn, GA4, and Vale telemetry
+    - A WhatsApp AI assistant for a home décor client — deployed on Railway, handling live client intake
+    - An AI assistant for an accounting firm client — in production, automating intake and scheduling
+    - A quoting engine + WhatsApp ops bot for a distributor client — active pilot
+    - Ratio Labs' own AI voice + WhatsApp agent, live on the company site
+    - A client dashboard Phase 2: connecting live data from social and analytics APIs
     - Migrating new Ratio products to Supabase as the standard backend
 
   exploring:
