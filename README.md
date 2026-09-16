@@ -337,7 +337,7 @@ Sole engineer for a home décor business. Designed, built, and maintain all inte
 </div>
 
 <div align="center">
-  <img src="https://github.com/jairure16-lab/jairure16-lab/blob/main/metrics.svg" alt="Self-hosted GitHub metrics — languages, isometric calendar, achievements" width="100%" />
+  <img src="https://raw.githubusercontent.com/jairure16-lab/jairure16-lab/main/metrics.svg" alt="Self-hosted GitHub metrics — languages, isometric calendar, achievements" width="100%" />
 </div>
 
 <div align="center">
