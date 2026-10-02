@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jair%20Ure%C3%B1a&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Founder%20%26%20CEO%20%40%20Ratio%20Labs%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jair%20Ure%C3%B1a&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=President%20%26%20Shareholder%20%40%20Ratio%20Labs%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&descSize=18" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI+for+high-ticket+professional+firms;Founder+%26+CEO+%40+Ratio+Labs+%7C+Panama+City%2C+PA;WhatsApp+bots+%2B+dashboards+%2B+real+business+impact;Self-taught+engineer+shipping+in+production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Building+AI+for+high-ticket+professional+firms;President+%26+Shareholder+%40+Ratio+Labs+%7C+Panama+City%2C+PA;WhatsApp+bots+%2B+dashboards+%2B+real+business+impact;Self-taught+engineer+shipping+in+production" alt="Typing SVG" />
 
   </a>
 </div>
@@ -64,13 +64,13 @@
 ```yaml
 name       : Jair Ureña
 company    : Ratio Labs — AI automation for professional service firms
-role       : Founder & CEO · Software Engineer · AI Systems Builder
+role       : President & Shareholder · Software Engineer · AI Systems Builder
 location   : Panama City, Panama
 background : Self-taught — built everything from projects, curiosity, and obsession with craft
 philosophy : Real products for real businesses. No demos. No MVPs that never ship.
 ```
 
-I'm a self-taught software engineer and founder & CEO of **Ratio Labs**, a studio I built to bring AI-powered automation to high-ticket professional service firms — accounting, legal, and real estate. My work sits at the intersection of **conversational AI**, **full-stack web engineering**, and **process automation** — always grounded in actual client workflows, not hypothetical use cases.
+I'm a self-taught software engineer and president & shareholder of **Ratio Labs**, a studio I built to bring AI-powered automation to high-ticket professional service firms — accounting, legal, and real estate. My work sits at the intersection of **conversational AI**, **full-stack web engineering**, and **process automation** — always grounded in actual client workflows, not hypothetical use cases.
 
 Every project I ship is in production, serving real users. From WhatsApp AI assistants managing client intake at an accounting firm, to dashboards replacing manual reporting, to quotation and ops platforms for distributors — I build systems that create measurable business value from day one.
 
@@ -267,7 +267,7 @@ Built as a production internal tool for a home décor and curtains business in P
 
 <br/>
 
-**Founder & CEO** &nbsp;·&nbsp; Ratio Labs &nbsp;·&nbsp; Panama City, PA
+**President & Shareholder** &nbsp;·&nbsp; Ratio Labs &nbsp;·&nbsp; Panama City, PA
 `2026 — Present`
 
 Founded Ratio Labs to build AI-powered automation products for high-ticket professional service firms in Latin America. Responsible for the full lifecycle — from client discovery and solution design to engineering, deployment, and leading the team. Every product ships to production.
@@ -291,9 +291,9 @@ Founded Ratio Labs to build AI-powered automation products for high-ticket profe
 <br/>
 
 **Software Engineer** &nbsp;·&nbsp; Home Décor & Curtains Company &nbsp;·&nbsp; Panama City, PA
-`2023 — Present`
+`2023 — Present (daily quoting block, not full-time)`
 
-Sole engineer for a home décor business. Designed, built, and maintain all internal software — replacing manual workflows with production tools built from scratch.
+Sole engineer for a home décor business. Designed and built all internal software — replacing manual workflows with production tools from scratch. Day-to-day involvement today is a daily quoting block rather than full-time on-site operations.
 
 - Architected and shipped a full-stack quotation management system that eliminated the manual spreadsheet process used by the sales team
 - Reduced quote generation time by over 90%, enabling same-day response to client inquiries
@@ -319,7 +319,7 @@ Sole engineer for a home décor business. Designed, built, and maintain all inte
 | Recognition | Details |
 |:---:|:---|
 | **Multiple AI Systems in Production** | Live WhatsApp AI assistants and ops bots serving real clients across accounting, distribution, and home décor — all deployed and handling real conversations |
-| **Zero-to-One Founder** | Founded Ratio Labs and grew it to a paying, multi-client business, leading the team across engineering, sales, and marketing |
+| **Zero-to-One Founder** | Co-founded Ratio Labs and grew it to a paying, multi-client business, leading the team across engineering, sales, and marketing |
 | **Production Incident Response** | Diagnosed and shipped a same-day fix for a critical data-access bug in the company's own sales dashboard — root cause traced to a missing database policy, verified live with the team using it |
 | **Internal AI Infrastructure** | Built and deployed an internal MCP server so the team can query company systems (GitHub, Drive, internal APIs) directly through AI tooling |
 | **90%+ Workflow Reduction** | Reduced manual business processes by over 90% across separate client engagements through targeted automation |
